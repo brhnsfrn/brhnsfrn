@@ -16,6 +16,7 @@
   <img title="Python" alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width="40" height="40" />
 	<img title="Java" alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="40" height="40" />
 	<img title="Golang" alt="Golang" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="30" height="40" />
+	<img title="Php" alt="Php" src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" width="40" height="40" />
   <img title="EF Core" alt="EF Core" src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" width="40" height="40" />	
   <img title="MSSQL" alt="MSSQL" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-8.png" width="45" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="40" />
