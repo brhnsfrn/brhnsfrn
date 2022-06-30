@@ -6,7 +6,7 @@
 	- [x] .Net Core
 	- [x] Microservices
 
-- 🌱 I’m currently pursuing **Golang**, **ReactJs**.
+- 🌱 I’m currently pursuing **Golang** for server-side, **ReactJs** for client-side.
 
 ### My skills include
 
