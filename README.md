@@ -24,3 +24,14 @@
 	<img title="Bootstrap" alt="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="60" height="43" />
 </p>
 
+<p align="center">
+	<strong>Consider giving my work a :star: to show some :heart:</strong>
+</p>
+
+<hr>
+<p align="center">
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/burhan-safran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:brhnsfrn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>   
